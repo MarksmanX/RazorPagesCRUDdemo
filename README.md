@@ -20,7 +20,7 @@ Setup Instructions
 1. Clone the repository:
 
 run in bash
-git clone *********
+git clone https://github.com/MarksmanX/RazorPagesCRUDdemo.git
 cd razor-pages-demo-app
 
 2. Restore NuGet packages:
